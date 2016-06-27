@@ -1,0 +1,20 @@
+{
+  "name": "vive_fun",
+  "homepage": "https://github.com/drGrove/dotfiles",
+  "authors": [
+    "Danny Grove <danny@drgrovellc.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "rxjs": "^4.1.0"
+  }
+}
